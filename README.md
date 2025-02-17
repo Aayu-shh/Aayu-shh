@@ -28,6 +28,6 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and conti
 
 - [LinkedIn](https://www.linkedin.com/in/aayush28)
 - [Twitter](https://x.com/AAYUSHAGRAWAL17) 
-- [Website](https://trackmyexpense.site)
+- [Expense Tracker Web App](https://trackmyexpense.site)
 
 Thanks for visiting my profile! Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas.
