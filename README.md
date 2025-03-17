@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and conti
 
 - 🌱 I’m currently learning new programming languages and exploring different tech stacks.
 - 👯 I’m looking to collaborate on exciting open-source projects.
-- 💬 Ask me about anything related to web development, Python, or open-source contributions.
+- 💬 Ask me about anything related to web development, Java, or open-source contributions.
 - 📫 How to reach me: [Email](mailto:aayush28.official@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving puzzles and taking long walks in my free time.
