@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and conti
 
 ## About Me
 
-- 🌱 I’m currently learning new programming languages and exploring different tech stacks.
+- 🌱 I’m currently learning new programming languages, exploring different tech stacks and various AI tools like WhisperFlow, Cursor, GithubCopilot. Tip: Try Microsoft Copilot's think deeper feature and see the magic! :dizzy:
 - 👯 I’m looking to collaborate on exciting open-source projects.
 - 💬 Ask me about anything related to web development, Java, or open-source contributions.
 - 📫 How to reach me: [Email](mailto:aayush28.official@gmail.com)
