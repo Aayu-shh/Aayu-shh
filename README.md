@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and conti
 - 📫 How to reach me: [Email](mailto:aayush28.official@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving puzzles and taking long walks in my free time.
-
+- Something I made recently: [Expense Tracker Web App](https://trackmyexpense.site)
 
 ## Languages and Tools
 
@@ -32,6 +32,6 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and conti
 
 - [LinkedIn](https://www.linkedin.com/in/aayush28)
 - [Twitter](https://x.com/AAYUSHAGRAWAL17) 
-- [Expense Tracker Web App](https://trackmyexpense.site)
+
 
 Thanks for visiting my profile! Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas.
